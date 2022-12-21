@@ -1,7 +1,7 @@
 {
-    "app_id": "application-0-vdaav",
+    "app_id": "aerospace-demo-wbpkv",
     "config_version": 20210101,
-    "name": "Application-0",
+    "name": "Aerospace-Demo",
     "location": "US-VA",
     "provider_region": "aws-us-east-1",
     "deployment_model": "LOCAL"
